@@ -1,0 +1,26 @@
+-------------------------------------------------------------
+Activity devices REPORT
+Days: 8
+09/09/2015 10/09/2015 11/09/2015 12/09/2015 13/09/2015 14/09/2015 15/09/2015 16/09/2015 
+
+Status: 
+	High_activity - active for more than a half of reporting period
+	Low_activity - active for less than a half of reporting period and at least 1 day active
+	No-activity - inactive for entire reporting period
+-------------------------------------------------------------
+
+-------------------------------------------------------------
+List of No_activity devices logging to Envisions:
+-------------------------------------------------------------
+msisa (10.20.30.40 :nodnsrecord) : no_activity
+symantecav (50.60.70.80 :dns.domain.co.uk. ) : no_activity
+
+-------------------------------------------------------------
+List of Low_activity devices logging to Envisions:
+-------------------------------------------------------------
+solaris (20.30.40.50 :nodnsrecord) : low_activity
+
+-------------------------------------------------------------
+List of High_activity devices logging to Envisions:
+-------------------------------------------------------------
+aix (30.40.50.60 :nodnsrecord) : high_activity
